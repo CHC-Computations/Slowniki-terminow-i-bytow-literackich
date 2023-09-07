@@ -57,7 +57,7 @@ Teorie literatury XX wieku (Anna Burzyńska, Michał Paweł Markowski)
 
 The dictionary of literary terms is made available in a spreadsheet [here](https://github.com/CHC-Computations/Slowniki-terminow-i-bytow-literackich/blob/main/Dictionary%20of%20literary%20terms.xlsx). Eventually, data will be made available in other formats, such as JSON.
 
-### Dictionary of literary entities
+### Dictionaries of Literary Entities
 
 The set of literary entities consists of 166 784 entities. The collection contains entities related to the space of scientific literary discourse. The collection is divided into individual vocabularies corresponding to the types of entities that were subject to extraction. These include personal and geographical names (both real and fictional), names of institutions, names of literary groups, names of events, names of periodicals, and titles of works.
 
