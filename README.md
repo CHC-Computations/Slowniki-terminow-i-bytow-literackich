@@ -94,6 +94,6 @@ The individual dictionaries of literary entities are made available in spreadshe
 
 ## Licence
 
-All data in this collection are in the public domain. No rights reserved, texts are available under Creative Commons 0 license [CC0](https://creativecommons.org/share-your-work/public-domain/cc0/).
+All data in this collection are in the public domain. No rights reserved, texts are available under Creative Commons Attribution 4.0 International Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ![alt_text](https://github.com/CHC-Computations/Harmonize/blob/main/Zrzut%20ekranu%202022-12-19%20o%2017.48.49.png?raw=true)
