@@ -18,7 +18,7 @@ Entries were extracted automatically from digitized versions of dictionaries con
 The collection contains 174 044 entities.
 
 <p align="center">
-  <img src="Dictionaries of literary terms and entities - percentage distribution.png" alt="Dictionaries of literary terms and entities – percentage distribution" width="65%">
+  <img src="/pictures/Dictionaries of literary terms and entities - percentage distribution.png" alt="Dictionaries of literary terms and entities – percentage distribution" width="65%">
 </p>
 
 ### Dictionary of Literary Terms
@@ -85,7 +85,7 @@ Wikipedia – Polskojęzyczne konkursy poetyckie
 #### Statistics
 
 <p align="center">
-  <img src="Dictionaries of literary entities - percentage distribution.png" alt="Dictionaries of literary entities – percentage distribution" width="65%">
+  <img src="/pictures/Dictionaries of literary entities - percentage distribution.png" alt="Dictionaries of literary entities – percentage distribution" width="65%">
 </p>
 
 #### Access
