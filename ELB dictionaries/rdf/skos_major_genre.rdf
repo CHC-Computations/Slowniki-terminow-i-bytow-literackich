@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <rdf:Description rdf:about="http://example.org/concepts/major_ELB_concept_6">
+    <skos:prefLabel>Other</skos:prefLabel>
+    <skos:altLabel xml:lang="pl">Inne</skos:altLabel>
+    <skos:altLabel xml:lang="fi">Muu</skos:altLabel>
+    <skos:altLabel xml:lang="cs">Jiný</skos:altLabel>
+    <skos:altLabel xml:lang="es">Otro</skos:altLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/concepts/major_ELB_concept_4">
+    <skos:prefLabel>Literature</skos:prefLabel>
+    <skos:altLabel xml:lang="pl">Literatura</skos:altLabel>
+    <skos:altLabel xml:lang="fi">Kirjallisuus</skos:altLabel>
+    <skos:altLabel xml:lang="cs">Literatura</skos:altLabel>
+    <skos:altLabel xml:lang="es">Literatura</skos:altLabel>
+    <skos:narrower>Lyrical poetry</skos:narrower>
+    <skos:narrower>Fiction</skos:narrower>
+    <skos:narrower>Drama</skos:narrower>
+    <skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q8242"/>
+    <skos:closeMatch rdf:resource="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph117222"/>
+    <skos:closeMatch rdf:resource="https://datos.bne.es/tema/XX526344"/>
+    <skos:closeMatch rdf:resource="https://www.yso.fi/onto/yso/p8113"/>
+    <skos:closeMatch rdf:resource="https://dbn.bn.org.pl/descriptor-details/a0000001003574"/>
+    <skos:narrowMatch rdf:resource="https://www.wikidata.org/wiki/Q182357'"/>
+    <skos:narrowMatch rdf:resource="'https://www.wikidata.org/wiki/Q25372"/>
+    <skos:relatedMatch rdf:resource="https://www.wikidata.org/wiki/Q112754"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/concepts/major_ELB_concept_5">
+    <skos:prefLabel>Secondary literature</skos:prefLabel>
+    <skos:altLabel xml:lang="pl">Literatura przedmiotu</skos:altLabel>
+    <skos:altLabel xml:lang="fi">Toissijainen kirjallisuus</skos:altLabel>
+    <skos:altLabel xml:lang="cs">Sekundární literatura</skos:altLabel>
+    <skos:altLabel xml:lang="es">Literatura secundaria</skos:altLabel>
+    <skos:relatedMatch rdf:resource="https://www.wikidata.org/wiki/Q905511"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/concepts/major_ELB_concept_2">
+    <skos:prefLabel>Fiction</skos:prefLabel>
+    <skos:altLabel xml:lang="cs">Epika</skos:altLabel>
+    <skos:altLabel xml:lang="fi">Kertomakirjallisuus</skos:altLabel>
+    <skos:altLabel xml:lang="pl">Proza</skos:altLabel>
+    <skos:altLabel xml:lang="es">Épica</skos:altLabel>
+    <skos:broader>Literature</skos:broader>
+    <skos:closeMatch rdf:resource="https://dbn.bn.org.pl/descriptor-details/a0000001007995"/>
+    <skos:closeMatch rdf:resource="http://www.yso.fi/onto/yso/p14600"/>
+    <skos:closeMatch rdf:resource="http://www.yso.fi/onto/yso/p2128"/>
+    <skos:closeMatch rdf:resource="https://datos.bne.es/tema/XX5379304"/>
+    <skos:closeMatch rdf:resource="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph120174"/>
+    <skos:broadMatch rdf:resource="https://www.wikidata.org/wiki/Q8242"/>
+    <skos:relatedMatch rdf:resource="https://www.wikidata.org/wiki/Q8253"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/concepts/major_ELB_concept_1">
+    <skos:prefLabel>Lyrical poetry</skos:prefLabel>
+    <skos:altLabel xml:lang="pl">Liryka</skos:altLabel>
+    <skos:altLabel xml:lang="fi">Runot</skos:altLabel>
+    <skos:altLabel xml:lang="cs">Lyrická poezie</skos:altLabel>
+    <skos:altLabel xml:lang="es">Poesía</skos:altLabel>
+    <skos:broader>Literature</skos:broader>
+    <skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q182357"/>
+    <skos:closeMatch rdf:resource="https://dbn.bn.org.pl/descriptor-details/a0000001007609"/>
+    <skos:closeMatch rdf:resource="http://www.yso.fi/onto/yso/p24644"/>
+    <skos:closeMatch rdf:resource="https://datos.bne.es/tema/XX4576326"/>
+    <skos:closeMatch rdf:resource="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph117253"/>
+    <skos:broadMatch rdf:resource="https://www.wikidata.org/wiki/Q8242"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://example.org/concepts/major_ELB_concept_3">
+    <skos:prefLabel>Drama</skos:prefLabel>
+    <skos:altLabel xml:lang="pl">Dramat</skos:altLabel>
+    <skos:altLabel xml:lang="fi">Näytelmät</skos:altLabel>
+    <skos:altLabel xml:lang="cs">Drama</skos:altLabel>
+    <skos:altLabel xml:lang="es">Drama</skos:altLabel>
+    <skos:broader>Literature</skos:broader>
+    <skos:exactMatch rdf:resource="https://www.wikidata.org/wiki/Q25372"/>
+    <skos:closeMatch rdf:resource="https://dbn.bn.org.pl/descriptor-details/a0000001001129"/>
+    <skos:closeMatch rdf:resource="http://www.yso.fi/onto/yso/p17229"/>
+    <skos:closeMatch rdf:resource="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ph119598"/>
+    <skos:closeMatch rdf:resource="https://datos.bne.es/tema/XX539770"/>
+    <skos:broadMatch rdf:resource="https://www.wikidata.org/wiki/Q8242"/>
+  </rdf:Description>
+</rdf:RDF>
