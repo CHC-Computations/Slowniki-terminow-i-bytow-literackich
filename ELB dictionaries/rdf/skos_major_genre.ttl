@@ -1,0 +1,78 @@
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://example.org/concepts/major_ELB_concept_1> a skos:Concept ;
+    skos:altLabel "Lyrická poezie"@cs,
+        "Poesía"@es,
+        "Runot"@fi,
+        "Liryka"@pl ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q8242> ;
+    skos:broader "Literature" ;
+    skos:closeMatch <http://www.yso.fi/onto/yso/p24644>,
+        <https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph117253>,
+        <https://datos.bne.es/tema/XX4576326>,
+        <https://dbn.bn.org.pl/descriptor-details/a0000001007609> ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q182357> ;
+    skos:prefLabel "Lyrical poetry" .
+
+<http://example.org/concepts/major_ELB_concept_2> a skos:Concept ;
+    skos:altLabel "Epika"@cs,
+        "Épica"@es,
+        "Kertomakirjallisuus"@fi,
+        "Proza"@pl ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q8242> ;
+    skos:broader "Literature" ;
+    skos:closeMatch <http://www.yso.fi/onto/yso/p14600>,
+        <http://www.yso.fi/onto/yso/p2128>,
+        <https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph120174>,
+        <https://datos.bne.es/tema/XX5379304>,
+        <https://dbn.bn.org.pl/descriptor-details/a0000001007995> ;
+    skos:prefLabel "Fiction" ;
+    skos:relatedMatch <https://www.wikidata.org/wiki/Q8253> .
+
+<http://example.org/concepts/major_ELB_concept_3> a skos:Concept ;
+    skos:altLabel "Drama"@cs,
+        "Drama"@es,
+        "Näytelmät"@fi,
+        "Dramat"@pl ;
+    skos:broadMatch <https://www.wikidata.org/wiki/Q8242> ;
+    skos:broader "Literature" ;
+    skos:closeMatch <http://www.yso.fi/onto/yso/p17229>,
+        <https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph119598>,
+        <https://datos.bne.es/tema/XX539770>,
+        <https://dbn.bn.org.pl/descriptor-details/a0000001001129> ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q25372> ;
+    skos:prefLabel "Drama" .
+
+<http://example.org/concepts/major_ELB_concept_4> a skos:Concept ;
+    skos:altLabel "Literatura"@cs,
+        "Literatura"@es,
+        "Kirjallisuus"@fi,
+        "Literatura"@pl ;
+    skos:closeMatch <https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph117222>,
+        <https://datos.bne.es/tema/XX526344>,
+        <https://dbn.bn.org.pl/descriptor-details/a0000001003574>,
+        <https://www.yso.fi/onto/yso/p8113> ;
+    skos:exactMatch <https://www.wikidata.org/wiki/Q8242> ;
+    skos:narrowMatch <'https://www.wikidata.org/wiki/Q25372>,
+        <https://www.wikidata.org/wiki/Q182357'> ;
+    skos:narrower "Drama",
+        "Fiction",
+        "Lyrical poetry" ;
+    skos:prefLabel "Literature" ;
+    skos:relatedMatch <https://www.wikidata.org/wiki/Q112754> .
+
+<http://example.org/concepts/major_ELB_concept_5> a skos:Concept ;
+    skos:altLabel "Sekundární literatura"@cs,
+        "Literatura secundaria"@es,
+        "Toissijainen kirjallisuus"@fi,
+        "Literatura przedmiotu"@pl ;
+    skos:prefLabel "Secondary literature" ;
+    skos:relatedMatch <https://www.wikidata.org/wiki/Q905511> .
+
+<http://example.org/concepts/major_ELB_concept_6> a skos:Concept ;
+    skos:altLabel "Jiný"@cs,
+        "Otro"@es,
+        "Muu"@fi,
+        "Inne"@pl ;
+    skos:prefLabel "Other" .
+
