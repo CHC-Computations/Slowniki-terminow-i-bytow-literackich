@@ -102,7 +102,7 @@ The collection contains 979 entities.
 #### Access
 
 The European Literary Bibliography dictionaries are available [here](https://github.com/CHC-Computations/Slowniki-terminow-i-bytow-literackich/tree/main/ELB%20dictionaries) in CSV and TTL formats.
-
+The European Literary Bibliography is based on Harmonize software, the source code of which is freely available [here](https://github.com/CHC-Computations/Harmonize).
 ## Licence
 
 All data in this collection are in the public domain. No rights reserved, texts are available under Creative Commons Attribution 4.0 International Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
