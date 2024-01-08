@@ -97,14 +97,14 @@ The individual dictionaries of literary entities are made available in folders [
 ## European Literary Bibliography collection
 
 The controlled vocabularies of the [European Literary Bibliography](https://literarybibliography.eu/) service is a collection containing multilingual data on genres and subjects found in the service's bibliographic resources. The data is presented in the Simple Knowledge Organization System (SKOS) schema and includes links to data from the National Library of Poland, National Library of the Czech Republic, General Finnish ontology (YSO), National Library of Spain and Wikidata.
-The collection contains 979 entities. 
+The collection contains 979 entities.
+
+The European Literary Bibliography is based on Harmonize software, the source code of which is freely available [here](https://github.com/CHC-Computations/Harmonize).
 
 #### Access
 
 The European Literary Bibliography dictionaries are available [here](https://github.com/CHC-Computations/Slowniki-terminow-i-bytow-literackich/tree/main/ELB%20dictionaries) in CSV and TTL formats.
 
-
-The European Literary Bibliography is based on Harmonize software, the source code of which is freely available [here](https://github.com/CHC-Computations/Harmonize).
 ## Licence
 
 All data in this collection are in the public domain. No rights reserved, texts are available under Creative Commons Attribution 4.0 International Licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
