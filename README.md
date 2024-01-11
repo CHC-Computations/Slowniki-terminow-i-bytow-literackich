@@ -1,5 +1,6 @@
 ![alt text](https://github.com/CHC-Computations/Harmonize/blob/main/logo-1.png?raw=true)
 # Dictionaries of literary terms and entities (Słowniki terminów i bytów literackich)
+![alt text](https://github.com/CHC-Computations/Slowniki-terminow-i-bytow-literackich/blob/main/Slowniki-terminow-i-bytow-literackich.svg?raw=true)
 
 The collection consists of lists of literary data entities. The data is divided into two main parts - a dictionary of literary terms and a dictionary of literary entities. The latter is further divided into further subsets - authors, translators, researchers, fictional characters, actual characters, actual places, fictional places, events, institutions, literary groups, periodicals, and works.
 
